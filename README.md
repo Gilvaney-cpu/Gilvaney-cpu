@@ -25,7 +25,7 @@
 <a href = "mailto:gilvaney.leandro@ufrpe.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilvaney-cpu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilvaney-cpu)](https://github.com/Gilvaney-cpu/github-readme-stats)
 
 
           
