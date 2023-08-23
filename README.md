@@ -1,5 +1,5 @@
 # Olá pessoal!
-## Me chamo Gilvaney Daniel, sejam bem vindos ao meu perfiL!
+## Me chamo Gilvaney Daniel, sejam bem vindos ao meu perfil!
 
 - 🔭 Atualmente estou trabalhando na Seed a Bit, na área de Operações.
 - 🌱 Atualmente estou aprendendo AWS.
