@@ -7,6 +7,6 @@
 - 😄 Pronomes: He/him//ele/dele
 - ⚡ Curiosidade:
 
-- Ferramentas e Tecnologias: <img loading="lazy" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">" width="40" height="40"/>
+- Ferramentas e Tecnologias: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />" width="40" height="40"/>
 
 
