@@ -1,6 +1,9 @@
 # Olá pessoal!
 ## Me chamo Gilvaney Daniel, sejam bem vindos ao meu perfil!
 
+![image](https://github.com/Gilvaney-cpu/Gilvaney-cpu/assets/82004214/919f6df9-1e67-453e-b956-d9e8d0714c2c)
+
+
 - 🔭 Atualmente estou trabalhando na Seed a Bit, na área de Operações.
 - 🌱 Atualmente estou aprendendo AWS.
 - 👯 Estou procurando colaborar na UFRPE-DEVS.
