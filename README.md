@@ -7,7 +7,6 @@
 - 🔭 Atualmente estou trabalhando na Seed a Bit, na área de Operações.
 - 🌱 Atualmente estou aprendendo AWS.
 - 👯 Estou procurando colaborar na UFRPE-DEVS.
-- 😄 Pronomes: He/him//ele/dele
 - ⚡ Curiosidade: Sou fã de One Piece, na esperança de um dia Luffy finalmente achar o One Piece!!
 
 - Ferramentas e Tecnologias:
