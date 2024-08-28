@@ -1,13 +1,6 @@
 # Olá pessoal!
 ## Me chamo Gilvaney Daniel, sejam bem vindos ao meu perfil!
 
-![image](https://github.com/Gilvaney-cpu/Gilvaney-cpu/assets/82004214/530cb1c9-8881-4ea8-a9cf-52965d7dfee0)
-
-
-- 🔭 Atualmente estou trabalhando na Seed a Bit, na área de Operações.
-- 🌱 Atualmente estou aprendendo AWS.
-- 👯 Estou procurando colaborar na UFRPE-DEVS.
-- ⚡ Curiosidade: Sou fã de One Piece, na esperança de um dia Luffy finalmente achar o One Piece!!
 
 - Ferramentas e Tecnologias:
 
